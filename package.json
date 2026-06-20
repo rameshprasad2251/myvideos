@@ -1,0 +1,15 @@
+{
+  "name": "myvideos",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10",
+  "scripts": {
+    "dev": "echo 'Scaffold frontend next'",
+    "build": "echo 'Build pipeline pending'",
+    "lint": "echo 'Lint configuration pending'"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
